@@ -30,3 +30,5 @@
   color: #42b983;
 }
 </style>
+
+<script lang="ts" src="./App.component.ts" />
